@@ -30,14 +30,16 @@ body{
     width: 70%;
     padding: 150px;
     margin-top: 50px;
+    border-radius: 20px;
 }
 
 .contenedor4{
-    margin-top: 50px;
-    background-image: url("..//Imagenes/42367364ab0ffbe1e200200a8101be23.jpg");
+    margin-top: 100px;
+    background-image: url("..//Imagenes/HD-wallpaper-comics-the-beginning-after-the-end.jpg");
     background-size: cover;
     background-color: rgba(#6B3FA0, #FFB800, #00A3FF, alpha);
     background-blend-mode: multiply;
     width: 70%;
-    padding: 150px;
+    padding: 240px;
+    border-radius: 20px;
 }
